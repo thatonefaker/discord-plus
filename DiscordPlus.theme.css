@@ -72,10 +72,10 @@ Set avatar/server radius to 50% to make them circular.
   --dplus-radius-server: 0%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
-  --dplus-spacing-ui: 0px;
+  --dplus-spacing-ui: 10px;
 
 /* This sets how much space there should be between the app contents and the edges of the window. It also affects the distance between major UI elements, such as the server list to the channel list and channel list to the chat. */
-   --dplus-spacing-app: 0px;
+   --dplus-spacing-app: 10px;
 
 /* Size of user and server icons */
 --dplus-icon-avatar-chat: 48px;
