@@ -67,7 +67,7 @@
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
    UI radius must be in pixels, otherwise things break. */
-  --dplus-radius-ui: 1px;
+  --dplus-radius-ui: 10px;
   --dplus-radius-avatar: 0%;
   --dplus-radius-server: 0%;
 
