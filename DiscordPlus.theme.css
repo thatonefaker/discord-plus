@@ -42,16 +42,16 @@
 .theme-light {
   --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
   
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 100;
+  --dplus-accent-color-saturation: 100%;
+  --dplus-accent-color-lightness: 50%;
   
-  --dplus-foreground-color-hue-base: 210;
-  --dplus-foreground-color-hue-links: 197;
+  --dplus-foreground-color-hue-base: 244;
+  --dplus-foreground-color-hue-links: 225;
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
 
-  --dplus-background-color-hue: 320;
+  --dplus-background-color-hue: 344;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
   --dplus-background-color-alpha: 0.8;
@@ -67,15 +67,15 @@
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
    UI radius must be in pixels, otherwise things break. */
-  --dplus-radius-ui: 10px;
-  --dplus-radius-avatar: 20%;
-  --dplus-radius-server: 20%;
+  --dplus-radius-ui: 1px;
+  --dplus-radius-avatar: 0%;
+  --dplus-radius-server: 0%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
   --dplus-spacing-ui: 10px;
 
 /* This sets how much space there should be between the app contents and the edges of the window. It also affects the distance between major UI elements, such as the server list to the channel list and channel list to the chat. */
-   --dplus-spacing-app: 10px;
+   --dplus-spacing-app: 0px;
 
 /* Size of user and server icons */
 --dplus-icon-avatar-chat: 64px;
